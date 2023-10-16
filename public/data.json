@@ -1,0 +1,39 @@
+[
+    {
+      "coffee_name": "Espresso",
+      "image_url": "https://pasteboard.co/Fppz33e9Q7PF.png",
+      "chef_name": "Maria Rodriguez",
+      "price": 2.99
+    },
+    {
+      "coffee_name": "Cappuccino",
+      "image_url": "https://pasteboard.co/MtcOM9vWxffZ.png",
+      "chef_name": "Juan Lopez",
+      "price": 3.49
+    },
+    {
+      "coffee_name": "Latte",
+      "image_url": "https://pasteboard.co/ZyHklszVquFY.png",
+      "chef_name": "Sophia Smith",
+      "price": 3.99
+    },
+    {
+      "coffee_name": "Mocha",
+      "image_url": "https://pasteboard.co/vuNj0SpWq72f.png",
+      "chef_name": "Carlos Ramirez",
+      "price": 4.25
+    },
+    {
+      "coffee_name": "Americano",
+      "image_url": "https://pasteboard.co/fVr4SCx6B3BY.png",
+      "chef_name": "Emily Johnson",
+      "price": 3.29
+    },
+    {
+      "coffee_name": "Macchiato",
+      "image_url": "https://pasteboard.co/iXNj7stNrlYs.png",
+      "chef_name": "Daniel Kim",
+      "price": 3.79
+    }
+  ]
+  

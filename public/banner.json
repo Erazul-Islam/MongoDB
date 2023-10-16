@@ -1,0 +1,26 @@
+[
+    {
+        "id" : "1",
+        "img": "https://pasteboard.co/U9kBPKHHcKCc.png",
+        "name": "Awesome Aroma",
+        "description": "You will definitely be a fan of the design & aroma of your coffee"
+    },
+    {
+        "id" : "2",
+        "img": "https://pasteboard.co/3RZtWYSGzRqr.png",
+        "name": "High Quality",
+        "description": "We served the coffee to you maintaining the best quality"
+    },
+    {
+        "id" : "3",
+        "img": "https://pasteboard.co/7ywkhizVNPg9.png",
+        "name": "Pure Grades",
+        "description": "Description of Product 3 goes here."
+    },
+    {
+        "id" : "4",
+        "img": "https://ibb.co/3kszFjn",
+        "name": "Proper Roasting",
+        "description": "This is the description for Product 4."
+    }
+]
