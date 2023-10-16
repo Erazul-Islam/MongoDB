@@ -1,5 +1,4 @@
 const BannerLayout = ({logo}) => {
-    console.log(logo)
     const {img,name,description} = logo || {}
     return (
         <div>
